@@ -8,7 +8,7 @@
 	<link rel="stylesheet" href="<?=base_url()?>assets/bower_components/bootstrap/dist/css/bootstrap.min.css">
 	<link rel="stylesheet" href="<?=base_url()?>assets/bower_components/font-awesome/css/font-awesome.min.css">
 	<link rel="stylesheet" href="<?=base_url()?>assets/bower_components/datatables.net-bs/css/dataTables.bootstrap.min.css">
-	<link rel="icon" href="<?=base_url('assets/dist/img/logo.png')?>">
+	<link rel="icon"><img src="https://w7.pngwing.com/pngs/607/104/png-transparent-googleplex-google-logo-google-search-oliver-atom-text-logo-business.png" alt="" />
 	<link rel="stylesheet" href="<?=base_url()?>assets/dist/css/AdminLTE.min.css">
 	<link rel="stylesheet" href="<?=base_url()?>assets/dist/css/skins/_all-skins.min.css">
 	<link rel="stylesheet" href="<?=base_url('assets/bower_components/bootstrap/dist/css/custom.css') ?>">
